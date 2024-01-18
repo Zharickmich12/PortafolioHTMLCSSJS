@@ -12,7 +12,7 @@
 :root {
     --bg-color: #fdfdfd;
     --text-color: #333;
-    --main-color: #754ef9;
+    --main-color: #503C3C;
     --white-color: #fdfdfd;
     --shadow-color: rgba(0, 0, 0, .2);
 }
@@ -266,7 +266,8 @@ span {
 }
 
 .about-img img {
-    width: 40vw;
+    width: 23vw;
+    border-radius: 20%;
 }
 
 .heading {
